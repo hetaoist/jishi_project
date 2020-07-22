@@ -1,0 +1,11 @@
+{
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "cmake.configureOnOpen": true,
+    "update.mode": "none",
+    "cmake.cmakePath": "/usr/local/bin/cmake",
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "update.showReleaseNotes": false,
+    "workbench.startupEditor": "newUntitledFile"
+}

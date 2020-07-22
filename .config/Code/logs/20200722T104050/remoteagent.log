@@ -1,0 +1,5 @@
+[2020-07-22 10:40:50.467] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/project/.config/Code/Machine'
+[2020-07-22 10:40:52.631] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/project/.config/Code/User/snippets'
+[2020-07-22 10:40:52.631] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/project/.config/Code/User/snippets'
+[2020-07-22 10:40:52.635] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/project/.config/Code/Machine'
+[2020-07-22 10:40:52.635] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/project/.config/Code/Machine'
